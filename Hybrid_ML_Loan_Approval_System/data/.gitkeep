@@ -1,0 +1,2 @@
+This directory is auto-populated with synthetic datasets and the
+applications log the first time you run `streamlit run app.py`.

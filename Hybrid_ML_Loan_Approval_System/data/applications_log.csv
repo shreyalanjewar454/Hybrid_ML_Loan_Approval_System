@@ -1,0 +1,4 @@
+timestamp,applicant_name,engine,decision,risk_grade,approval_probability,fraud_probability,is_fraud_flagged,max_eligible_loan,requested_loan_amount
+2026-09-20T20:57:49,Shreya Lanjewar,Engine A - Standard Credit Bureau,Approved,Low,92.5,40.02,False,712000.0,500000
+2026-09-20T20:58:00,Shreya Lanjewar,Engine A - Standard Credit Bureau,Approved,Low,92.5,40.02,False,712000.0,500000
+2026-09-20T20:58:02,Shreya Lanjewar,Engine A - Standard Credit Bureau,Approved,Low,92.5,40.02,False,712000.0,500000
